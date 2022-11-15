@@ -2,7 +2,7 @@
 
 ### We will begin our first lesson by printing a simple Hello World! program.
 
-```
+```py
 print("Hello World!")
 ```
 Yes it is that simple unless like other languages here you don't need to import or include any files and then write a main function to print basic statements.
@@ -16,7 +16,7 @@ You can declare any kind of variable (int, float, boolean) and store the date of
 
 So lets declare a variable and store some data.
 
-```
+```py
 name = "Shrish"
 roll = 141
 student = True
@@ -24,14 +24,14 @@ student = True
 ```
 You can print the stored value using ```py print``` function which is a built in function.
 
-```
+```py
 print(name)
 print(roll)
 print(student)
 ```
 Or you can print them on a single line by providing all the three variables simultaneously.
 
-```
+```py
 print(name, roll, student)
 ```
 
