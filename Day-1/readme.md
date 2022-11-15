@@ -22,7 +22,7 @@ roll = 141
 student = True
 
 ```
-You can print the stored value using ```print``` function which is a built in function.
+You can print the stored value using ```py print``` function which is a built in function.
 
 ```
 print(name)
@@ -49,6 +49,10 @@ There are 5 basic data-types in Python
 - Set
 - Dictionary
 
+<dl>
+<img src="/assets/python-data-types.png" alt="img">
+</dl>
+
 Now lets deep dive into every data-type
 
 ### Numbers
@@ -70,6 +74,21 @@ A complex number contains an ordered pair, i,e., x + iy where x and y denote the
 
 #### String 
 The string can be defined as the sequence of characters represented in the quotation marks. In Python, we can use single, double or triple quotes to define a string.
+
+In the case of string handling, we can use + operator to concatenate two strings.
+
+```py
+print('hello' + 'python')
+```
+
+```
+'hello python'
+```
+
+### Lists
+Lists in python are similar to arrays in Js. The list can contain data of different types. The item stored in the list are separated with a comma and enclosed within square brackets[].
+
+We can use slice [:] operators to access the data of the list. The concatenation operator (+) and repetition operator (*) works with the list in the same way as they were working with the strings.
 
 # Operations in Python
 # Python tokens : Keywords, Identifiers, Literals & Operators
