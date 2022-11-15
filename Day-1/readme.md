@@ -50,7 +50,7 @@ There are 5 basic data-types in Python
 - Dictionary
 
 <dl>
-<img src="/assets/python-data-types.png" alt="img">
+<img src="./assets/python-data-types.png" alt="img">
 </dl>
 
 Now lets deep dive into every data-type
