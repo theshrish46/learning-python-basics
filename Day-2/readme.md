@@ -51,57 +51,14 @@ Python provides the four types of literal collection such as List literals, Tupl
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-
-
-
-
-
-
-
-
-
 # Some other data structures in Python
 
-## Sets
-
-
-
-
-
-
-
+## Sets 
+Set is also a type of data structure in python which is similar to list but the key difference is list is mutable whereas set is not a mutable data structure.
+```py
+set1 = (1, 2, 3, 4, 'Shrish', True)
+print(set1)
+```
 
 
 ## Lists
