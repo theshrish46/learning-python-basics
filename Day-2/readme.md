@@ -64,4 +64,4 @@ print(set1)
 ## Lists
 Lists in python are similar to arrays in Js. The list can contain data of different types. The item stored in the list are separated with a comma and enclosed within square brackets[].
 
-We can use slice [:] operators to access the data of the list. The concatenation operator (+) and repetition operator (*) works with the list in the same way as they were working with the strings. -->
+We can use slice [:] operators to access the data of the list. The concatenation operator (+) and repetition operator (*) works with the list in the same way as they were working with the strings.
